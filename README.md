@@ -7,6 +7,9 @@
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
   [![Claude AI](https://img.shields.io/badge/Claude_3.5_Sonnet-D97757?style=for-the-badge&logo=anthropic)](https://anthropic.com/)
+
+  <br />
+  <h3>🔴 <a href="https://brand-pilot-ai.netlify.app/">Live Demo</a></h3>
 </div>
 
 <br />
@@ -81,8 +84,8 @@ The platform features a **premium, glassmorphic dark mode** aesthetic designed t
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Devengoyal885/BrandPilot-AI.git
-cd "BrandPilot-AI"
+git clone https://github.com/Devengoyal885/BrandPilot-AI1.git
+cd "BrandPilot-AI1"
 ```
 
 2. **Install dependencies**
