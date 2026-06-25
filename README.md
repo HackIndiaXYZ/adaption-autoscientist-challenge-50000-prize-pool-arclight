@@ -84,8 +84,8 @@ The platform features a **premium, glassmorphic dark mode** aesthetic designed t
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Devengoyal885/BrandPilot-AI1.git
-cd "BrandPilot-AI1"
+git clone https://github.com/HackIndiaXYZ/ai-for-marketers-hackathon-arclight.git
+cd "ai-for-marketers-hackathon-arclight"
 ```
 
 2. **Install dependencies**
